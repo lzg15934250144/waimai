@@ -1,0 +1,180 @@
+@import url(base.css);
+*{
+	list-style: none;
+}
+.dingbu{
+	width: 100%;
+	height: 0.88rem;
+	background: #17eab7;
+}
+.dingbu a i{
+	font-size: 0.31rem;
+	float: left;
+	line-height: 0.88rem;
+	margin-left: 0.36rem;
+	color: #fff;
+}
+.dingbu a:nth-child(2) i{
+	margin-left: 4.8rem;
+}
+.sjjs{
+	width: 7.5rem;
+	height: 2.46rem;
+	background: #17eab7;
+    position: relative;
+}
+.kcfwenzi{
+	width: 7.02rem;
+	height: 1.7rem;
+	/* background: red; */
+	position: absolute;
+	top: 0.32rem;
+	left: 0.24rem;
+
+}
+.kcfwenzizuo{
+	width: 1.69rem;
+	height: 1.7rem;
+	float: left;
+}
+.kcfwenziyou{
+	width: 5.33rem;
+	height: 1.7rem;
+	/* background: green; */
+	float: right;
+}
+.kfcbiaoti{
+	font-size: 0.35rem;
+	color: #fff;
+	font-weight: bold;
+	margin-left: 0.17rem;
+}
+.kfcgonggao{
+	margin-left: 0.17rem;
+	font-size: 0.18rem;
+	color: #969797;
+	margin-top: 0.16rem;
+}
+.fuwuhao{
+	width: 0.96rem;
+	height: 0.28rem;
+	border-radius: 0.1rem;
+	border: 1px solid yellow;
+	font-size: 0.16rem;
+	color: yellow;
+	text-align: center;
+	margin-left: 0.17rem;
+	margin-top: 0.16rem;
+	float: left;
+}
+.zhekouhuodong{
+	width: 7.02rem;
+	height: 1.22rem;
+	margin: 0 auto;
+	/* background: red; */
+}
+.zhekouhuodongl{
+	font-size: 0.16rem;
+	color: #000;
+	line-height: 1.22rem;
+	float: left;
+}
+.zhekouhuodongl i{
+	font-size: 0.16rem;
+	color: #ff00ff;
+}
+.zhekouhuodongr{
+	font-size: 0.16rem;
+	color: #848281;
+	line-height: 1.22rem;
+	float: right;
+}
+.zhekouhuodongr i{
+	font-size: 0.16rem;
+}
+.pinjia{
+	width: 7.5rem;
+	height: 0.35rem;
+	/* background: pink; */
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 0.01rem solid #000;
+	padding-bottom: 0.2rem;
+	position: relative;
+}
+.pinjia div{
+	font-size: 0.22rem;
+	font-weight: bold;
+	color: #919294;
+	line-height: 0.35rem;
+}
+.pinjia div:first-child{
+	color: #000;
+}
+.changtiao{
+	width: 0.44rem;
+	height: 0.03rem;
+	background: #ff9900;
+	position: absolute;
+	top: 0.36rem;
+	left: 0.85rem;
+}
+.shipinfenlei{
+	width: 1.18rem;
+	height: 6.56rem;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-top: 1px solid #000;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-around; 
+	justify-content: center;
+	position: fixed;
+	top: 5.1rem;
+	left: 0;
+}
+.shipinfenlei li{
+	font-size: 0.24rem;
+	font-weight: bold;
+}
+.hanbao{
+	width: 5.51rem;
+	height: 2.1rem;
+	/* background: pink; */
+
+	float: right;
+	margin-right: 0.45rem;
+}
+.hanbaotu{
+	width: 1.58rem;
+	height: 1.58rem;
+	float: left;
+}
+.hanbaoyou{
+	width: 3.58rem;
+	height: 1.58rem;
+	float: right;
+
+}
+.hanbaoming{
+	font-size: 0.21rem;
+	font-weight: bold;
+	margin-top: 0.19rem;
+}
+.hanbaojieshao{
+	font-size: 0.16rem;
+	color: #898482;
+	margin-top: 0.19rem;
+}
+.yueshou{
+	font-size: 0.16rem;
+	margin-top: 0.19rem;
+}
+.jiage{
+	font-size: 0.26rem;
+	margin-top: 0.1rem;
+	color: red;
+}
+.jiage i{
+	font-size: 0.26rem;
+}

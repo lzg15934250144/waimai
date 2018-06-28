@@ -1,0 +1,161 @@
+@import url(base.css);
+*{
+	list-style: none;
+}
+.beijing{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.beijing img{
+	width: 100%;
+	height:100%;
+}
+.denglukp{
+	width: 6.18rem;
+	height: 9.17rem;
+	background: #fffdfd;
+	position: absolute;
+	top: 2.67rem;
+	left: 0.67rem;
+}
+.touxiang{
+	width: 2.17rem;
+	height: 2.17rem;
+	background: pink;
+	border-radius: 50%;
+	position: absolute;
+	top: 1.55rem;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.touxiang img{
+	width: 2.17rem;
+	height: 2.17rem;
+	border-radius: 50%;
+}
+.bjzl{
+	width: 1.48rem;
+	height: 0.38rem;
+	background: #e243e4;
+	border-radius: 0.1rem;
+	color: #fff;
+	font-size: 0.23rem;
+	text-align: center;
+	line-height: 0.38rem;
+	position: absolute;
+	top: 1.08rem;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.hydly{
+	font-size: 0.18rem;
+	color: #969696;
+	position: absolute;
+	top: 1.66rem;
+	left: 1.55rem;
+    
+}
+.hydl{
+	font-size: 0.33rem;
+	color: red;
+	position: absolute;
+	top: 2.1rem;
+	left: 0;
+	left: 2.43rem;
+}
+.xia{
+	width: 4.21rem;
+	height: 0.23rem;
+	background: #ce54aa;
+	border-radius: 0.1rem;
+	margin-top: 3.18rem;
+	margin-left: 1rem;
+}
+.zhamhhaomima{
+	width: 4.76rem;
+	height: 2.55rem;
+	background: #fbf9f6;
+	border-radius: 0.2rem;
+	position: absolute;
+	top: 3.3rem;
+	left: 0.7rem;
+}
+.denglukp input{
+	position: absolute;
+	top: 0.44rem;
+	left: 0.32rem;
+	display: block;
+	width: 4.12rem;
+	height: 0.56rem;
+	border-radius: 0.5rem;
+	border: none;
+	padding-left: 0.2rem;
+	box-sizing: border-box;
+	outline: none;
+}
+.denglukp input:nth-child(2){
+	position: absolute;
+	top: 1.26rem;
+	left: 0.32rem;
+	display: block;
+	width: 4.12rem;
+	height: 0.56rem;
+	border-radius: 0.5rem;
+	border: none;
+	padding-left: 0.2rem;
+	box-sizing: border-box;
+	outline: none;
+}
+.wjmm{
+	font-size: 0.18rem;
+	position: absolute;
+	top: 2.12rem;
+	left: 0.68rem;
+}
+.disanfang{
+	font-size: 0.17rem;
+	color: #949292;
+	position: absolute;
+	top: 5.98rem;
+	left: 2.3rem;
+}
+.denglukp a i{
+	font-size: 0.63rem;
+}
+.denglukp a:nth-child(7) i{
+	color: #5ebeff;
+	position: absolute;
+	top: 6.32rem;
+	left: 1.07rem;
+}
+.denglukp a:nth-child(8) i{
+	color: green;
+	position: absolute;
+	top: 6.32rem;
+	left: 2.77rem;
+}
+.denglukp a:nth-child(9) i{
+	color: red;
+	position: absolute;
+	top: 6.28rem;
+	left: 4.54rem;
+	font-size: 0.7rem;
+}
+.ljdl{
+	width: 3.11rem;
+	height: 0.69rem;
+	background: #cf439c;
+	font-size: 0.31rem;
+	text-align: center;
+	line-height: 0.69rem;
+	border-radius: 0.5rem;
+	color: #fff;
+	position: absolute;
+	bottom: 1.26rem;
+	left: 1.55rem;
+}

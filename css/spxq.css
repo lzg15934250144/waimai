@@ -1,0 +1,180 @@
+@import url(base.css);
+*{
+	list-style: none;
+}
+.dingbu{
+	width: 100%;
+	height: 0.88rem;
+	background: #17eab7;
+}
+.dingbu a i{
+	font-size: 0.31rem;
+	float: left;
+	line-height: 0.88rem;
+	margin-left: 0.36rem;
+	color: #fff;
+}
+.dingbu a:nth-child(2) i{
+	margin-left: 5.5rem;
+}
+.bj{
+	width: 7.5rem;
+	height: 1.75rem;
+	background: #17eab7;
+	position: relative;
+}
+.spimg{
+	width: 6.6rem;
+	height: 4.08rem;
+	margin: 0 auto;
+	border-radius: 0.1rem;
+/* 	background: red; */
+	position: absolute;
+	top: 0.9rem;
+	left: 0.48rem;
+}
+.spimg img{
+	width: 6.6rem;
+	height: 4.08rem;
+	border-radius: 0.1rem;
+}
+.spjs{
+	margin: 0 auto;
+	margin-top: 2.84rem;
+	width: 6.62rem;
+	height: 1.96rem;
+/* 	background: red; */
+	position: relative;
+	border-bottom: 1px solid #bfbfbf;
+}
+.lbjjrj{
+	font-size: 0.29rem;
+	font-weight: bold;
+	color: #000;
+	float: left;
+	margin-top: 0.63rem;
+}
+.yueshou{
+	font-size: 0.15rem;
+	color: #a6a6a6;
+	position: absolute;
+	top: 1.01rem;
+
+}
+.jiage{
+	font-size: 0.29rem;
+	color: red;
+	font-weight: bold;
+	position: absolute;
+	top: 1.43rem;
+}
+.spjs i{
+	font-size: 0.62rem;
+	color: yellow;
+	position: absolute;
+	right: 0;
+	top: 0.87rem;
+}
+.spmsl{
+	width: 6.61rem;
+	height: 1.52rem;
+/* 	background: red; */
+	margin: 0 auto;
+	position: relative;
+	margin-top: 0.65rem;
+}
+.spms{
+	font-size: 0.22rem;
+	color: #000;
+	font-weight: bold;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.spyl1{
+	font-size: 0.14rem;
+	color: #9b9b9b;
+	position: absolute;
+	top: 0.47rem;
+	left: 0;
+}
+.wmpj{
+	font-size: 0.22rem;
+	color: #000;
+	font-weight: bold;
+	position: absolute;
+	top: 1.3rem;
+	left: 0;
+}
+.haopin{
+	font-size: 0.17rem;
+	color: #5a5a5a;
+	position: absolute;
+	top: 1.3rem;
+	left: 1.2rem;
+}
+.haopin span{
+	color:red;
+}
+.wmpl{
+	width: 6.61rem;
+	height: 1.26rem;
+/* 	background: red; */
+	margin: 0 auto;
+	margin-top: 0.25rem;
+	box-shadow: 0rem 0rem 0.6rem 0.05rem rgba(0, 0, 0, 0.3);
+	position: relative;
+}
+.touxiang{
+	width: 1rem;
+	height: 1rem;
+	border-radius: 50%;
+	background: pink;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.touxiang img{
+	width: 1rem;
+	height: 1rem;
+	border-radius: 50%;
+}
+.yhm{
+	font-size: 0.21rem;
+	color: #000;
+	font-weight: bold;
+	position: absolute;
+	top: 0.26rem;
+	left: 1.12rem;
+}
+.yhmpl{
+	font-size: 0.19rem;
+	color: #828080;
+	position: absolute;
+	top: 0.6rem;
+	left: 1.12rem;
+}
+.yhmzan{
+	font-size: 0.19rem;
+	color: #828080;
+	position: absolute;
+	top:0.89rem;
+	left: 1.15rem;
+}
+.yhmzan i{
+	font-size: 0.19rem;
+	color: red;
+}
+.yhmpinglun{
+	font-size: 0.19rem;
+	color: #828080;
+	position: absolute;
+	top:0.89rem;
+	left: 2.5rem;
+}
+.yhmpinglun i{
+	font-size: 0.19rem;
+	color: red;
+}

@@ -1,0 +1,132 @@
+@import url(base.css);
+*{
+	list-style: none;
+}
+.dingbu{
+	width: 100%;
+	height: 0.88rem;
+	background: #17eab7;
+	font-size: 0.28rem;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	line-height: 0.88rem;
+}
+.lishidd{
+	width: 7.02rem;
+	height: 2.07rem;
+/* 	background: pink; */
+	margin: 0 auto;
+	margin-top: 0.4rem;
+	position: relative;
+	box-shadow:0rem 0rem 0.5rem 0.01rem rgba(0,0,0,0.2)
+}
+.ddtou{
+	width: 0.84rem;
+	height: 0.84rem;
+	background: red;
+	border-radius: 50%;
+	position: absolute;
+	top: 0.37rem;
+	left: 0.24rem;
+}
+.ddtou img{
+	width: 0.84rem;
+	height: 0.84rem;
+	border-radius: 50%;
+}
+.kdj{
+	font-size: 0.22rem;
+	color: #020202;
+	position: absolute;
+	top: 0.37rem;
+	left: 1.41rem;
+}
+.dcsj{
+	font-size: 0.16rem;
+	color: #939292;
+	position: absolute;
+	top: 0.74rem;
+	left: 1.41rem;
+}
+.sysp{
+	font-size: 0.16rem;
+	color: #939292;
+	position: absolute;
+	left: 1.41rem;
+	top: 1.05rem;
+}
+.ddysd{
+	font-size: 0.18rem;
+	color: #7a7a7a;
+	font-weight: bold;
+	position: absolute;
+	top: 0.42rem;
+	right: 0.5rem;
+}
+.jiage{
+	font-size: 0.3rem;
+	color: #020202;
+	font-weight: bold;
+	position: absolute;
+	top: 0.97rem;
+	right: 0.5rem;
+}
+.xssj{
+	width: 1.2rem;
+	height: 0.3rem;
+	border: 0.01rem solid  #17eab7;
+	font-size: 0.22rem;
+	color: #17eab7;
+	border-radius: 0.10rem;
+	text-align: center;
+	line-height: 0.3rem;
+	position: absolute;
+	top: 1.52rem;
+	right: 2.28rem;
+}
+.xssj2{
+	width: 1.2rem;
+	height: 0.3rem;
+	border: 0.01rem solid  #17eab7;
+	font-size: 0.22rem;
+	color: #17eab7;
+	border-radius: 0.10rem;
+	text-align: center;
+	line-height: 0.3rem;
+	position: absolute;
+	top: 1.52rem;
+	right: 0.5rem;
+}
+.dbtc{
+	width: 100%;
+	height: 1rem;
+}
+.tab{
+	width: 100%;
+	height: 1rem;
+	background: #f5f1f1;
+	position: relative;
+	position: fixed;
+	bottom: 0;
+}
+.tab i{
+	font-size: 0.55rem;
+	color:#13ebb5; 
+}
+.tab a:last-child i{
+	position: absolute;
+	top: 0.18rem;
+	left: 6rem;
+}
+.tab a:first-child i{
+	position: absolute;
+	top: 0.18rem;
+	left: 1rem;
+}
+.tab a:nth-child(2) i{
+	position: absolute;
+	top: 0.18rem;
+	left: 3.5rem;
+	color: #797878;
+}

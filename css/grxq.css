@@ -1,0 +1,161 @@
+@import url(base.css);
+*{
+	list-style: none;
+}
+.dingbu{
+	width: 100%;
+	height: 0.88rem;
+	background: #17eab7;
+	position: relative;
+}
+.dingbu a:first-child i{
+	font-size: 0.6rem;
+	line-height: 0.88rem;
+	color: #fff;
+	position: absolute;
+	left: 5.63rem;
+}
+.dingbu a:last-child i{
+	font-size: 0.5rem;
+	line-height: 0.88rem;
+	color: #fff;
+	position: absolute;
+	left: 6.56rem;
+}
+.gerenxinxi{
+	width: 7.5rem;
+	height: 2.7rem;
+	background: #17eab7;
+	position: relative;
+}
+.touxiang{
+	width: 1.35rem;
+	height: 1.35rem;
+	border-radius: 50%;
+	background: red;
+	position: absolute;
+	top: 0.22rem;
+	left: 0.52rem;
+}
+.touxiang img{
+	width: 1.35rem;
+	height: 1.35rem;
+	border-radius: 50%;
+}
+.gerenming{
+	font-size: 0.22rem;
+	font-weight: bold;
+	color: #fff;
+	position: absolute;
+	top: 0.44rem;
+	left: 2.06rem;
+}
+.gerenming2{
+	font-size: 0.18rem;
+	color: #fff;
+	position: absolute;
+	top: 0.83rem;
+	left: 2.06rem;
+}
+.wodezichan{
+	width: 7.02rem;
+	height: 2.51rem;
+	/* background: red; */
+	margin: 0 auto;
+	border-bottom: 0.01rem solid #828080;
+	position: relative;
+}
+.wodezichan i{
+	font-size: 0.7rem;
+	color: #17eab7;
+}
+.wodeshoucang{
+	font-size: 0.17rem;
+	position: absolute;
+	top: 1.27rem;
+	left: 0.4rem;
+}
+.wodezichan a:first-child i{
+	position: absolute;
+	top: 0.45rem;
+	left: 0.5rem;
+}
+.wodezichan a:nth-child(2) i{
+	position: absolute;
+	top: 0.45rem;
+	left: 2.47rem;
+}
+.wodezg{
+	font-size: 0.17rem;
+	position: absolute;
+	top: 1.27rem;
+	left: 2.55rem;
+}
+.wodezichan a:nth-child(3) i{
+	position: absolute;
+	top: 0.45rem;
+	left: 4.18rem;
+}
+.wodedd{
+	font-size: 0.17rem;
+	position: absolute;
+	top: 1.27rem;
+	left:4.2rem;
+}
+.wodezichan a:nth-child(4) i{
+	position: absolute;
+	top: 0.45rem;
+	left: 6rem;
+}
+.wodedz{
+	font-size: 0.17rem;
+	position: absolute;
+	top: 1.27rem;
+	left:5.89rem;
+}
+.wodezichanz{
+	font-size: 0.32rem;
+	position: absolute;
+	bottom: 0.1rem;
+}
+#pipi{
+	margin-left: 0.1rem;
+}
+.qishoulan{
+	width: 7rem;
+	height: 1.69rem;
+	background: red;
+	margin: 0 auto;
+}
+#pipi2{
+	border-bottom: none;
+}
+/* tab开始 */
+.tab{
+	width: 100%;
+	height: 1rem;
+	background: #f5f1f1;
+	position: relative;
+	position: fixed;
+	bottom: 0;
+}
+.tab i{
+	font-size: 0.55rem;
+	color:#13ebb5; 
+}
+.tab a:last-child i{
+	color: #797878;
+	position: absolute;
+	top: 0.18rem;
+	left: 6.04rem;
+}
+.tab a:first-child i{
+	position: absolute;
+	top: 0.18rem;
+	left: 1.05rem;
+}
+.tab a:nth-child(2) i{
+	position: absolute;
+	top: 0.18rem;
+	left: 3.56rem;
+}
